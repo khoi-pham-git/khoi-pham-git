@@ -6,8 +6,8 @@ I'm Khoi from VietNam, and I'm a student at FPT University. My major is software
 
 ## Skills and Experience
 
--Java EE and SE 8 technologies.
--HTML/CSS/JS.
+- Java EE and SE 8 technologies.
+- HTML/CSS/JS.
 
 ## About me
 
