@@ -8,6 +8,7 @@ I'm Khoi from VietNam, and I'm a student at FPT University. My major is software
 
 - Java EE and SE 8 technologies.
 - HTML/CSS/JS.
+- C#
 
 ## About me
 
