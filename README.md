@@ -1,4 +1,3 @@
-![Software Engineering](https://pbs.twimg.com/profile_banners/1403309425796943879/1623410143/600x200)
 
 # Khoi Pham
 
