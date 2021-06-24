@@ -12,6 +12,7 @@ I'm Khoi from VietNam, and I'm a student at FPT University. My major is software
 - Java EE and SE 8 technologies.
 - HTML/CSS/JS.
 - C#
+- [![CI](https://github.com/khoi-pham-git/khoi-pham-git/actions/workflows/blank.yml/badge.svg)](https://github.com/khoi-pham-git/khoi-pham-git/actions/workflows/blank.yml)
 
 ## About me
 
