@@ -1,9 +1,7 @@
 
 # Khoi Pham
 
-I'm Khoi from VietNam, and I'm a student at FPT University. My major is software engineering. My dream is to become a Business Analyst (IT) in the future. You can contact me at https://www.facebook.com/im.khoipham or https://www.instagram.com/im.khoii/
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoi-pham-git&show_icons=true&theme=tokyonight)
+I'm Khoi from VietNam, and I'm a student at FPT University. My major is software engineering. My dream is to become a Business Analyst (IT) in the future. You can contact me with email info.khoipham@gmail.com
 
 
 
@@ -12,7 +10,8 @@ I'm Khoi from VietNam, and I'm a student at FPT University. My major is software
 - Java EE and SE 8 technologies.
 - HTML/CSS/JS.
 - C#
-- [![CI](https://github.com/khoi-pham-git/khoi-pham-git/actions/workflows/blank.yml/badge.svg)](https://github.com/khoi-pham-git/khoi-pham-git/actions/workflows/blank.yml)
+- Studying NodeJS
+
 
 ## About me
 
