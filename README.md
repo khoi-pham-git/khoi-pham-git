@@ -1,7 +1,7 @@
 
 # Khoi Pham
 
-I'm Khoi from VietNam, and I'm a student at FPT University. My major is software engineering. My dream is to become a Business Analyst (IT) in the future. You can contact me with email info.khoipham@gmail.com
+I'm Khoi from VietNam, and I'm a student at FPT University. My major is software engineering. My dream is to become a dev Backend in the future. You can contact me with email info.khoipham@gmail.com
 
 ## Skills and Experience
 
